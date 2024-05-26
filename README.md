@@ -36,7 +36,7 @@
 ## Контакты
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами:
 - Email: sarsembaevrollan05@gmail.com
-- GitHub: RollSatrs
+- GitHub: https://github.com/RollSatrs
 
 ## Лицензия
 Этот проект лицензируется под MIT License. Подробности смотрите в файле `LICENSE`.
